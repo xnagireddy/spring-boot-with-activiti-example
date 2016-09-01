@@ -5,3 +5,6 @@ spring-boot-example.iml
 /bin/
 /.classpath
 /.project
+/.gradle/
+/build/
+
